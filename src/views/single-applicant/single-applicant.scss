@@ -1,0 +1,17 @@
+single-applicant {
+    .text-container {
+        background-color: white;
+        color: #495057;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .rating-menu {
+        display: flex;
+        justify-content: space-between;
+
+        .form-group {
+            width: 20%;
+        }
+    }
+}
